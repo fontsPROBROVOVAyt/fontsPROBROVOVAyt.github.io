@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Minecraft'; 
+	src: url('https://github.com/PROBROVOVAyt/Site/blob/main/main/fonts/Minecraft/Minecraft.woff') format('woff'),
+		url('https://github.com/PROBROVOVAyt/Site/blob/main/main/fonts/Minecraft/Minecraft.woff2') format('woff2'),
+		url('https://github.com/PROBROVOVAyt/Site/blob/main/main/fonts/Minecraft/Minecraft.ttf')  format('truetype')	
+
+
+
+}
+* {
+	font-size: 20px;
+	font-family: 'Minecraft';
+}

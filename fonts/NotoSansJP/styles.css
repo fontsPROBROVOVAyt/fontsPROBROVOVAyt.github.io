@@ -1,0 +1,71 @@
+/* NotoSansJP Regular */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* NotoSansJP Light */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+/* NotoSansJP Medium */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/* NotoSansJP SemiBold */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+/* NotoSansJP Bold */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* NotoSansJP ExtraBold */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+/* NotoSansJP Black */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+/* NotoSansJP ExtraLight */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+/* NotoSansJP Thin */
+@font-face {
+	font-family: 'NotoSansJP';
+	src: url('./NotoSansJP-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
