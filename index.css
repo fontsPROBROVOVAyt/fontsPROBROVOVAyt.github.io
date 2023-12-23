@@ -1,12 +1,10 @@
 @import url('./fonts/Roboto/style.css');
 @import url('./fonts/OpenSans/style.css');
 @import url('./fonts/NotoSansJP/styles.css');
-/*  */
 * {
-    font-family: 'Roboto', sans-serif;
-}
-body {
-    background-color: #666666;
+    font-family: 'Roboto', sans-serif; 
+    background-color: #222222;
+    color: white;
 }
 
 .Roboto {
@@ -18,17 +16,24 @@ body {
 .NotoSansJP {
     font-family: 'NotoSans', sans-serif; 
 }
-
+code {
+    margin: 0;
+    padding: 0; 
+}
 code p {
+    padding: 5px;
     color: #39e234;
     background-color: #333333;
     height: max-content;
     width: max-content;
-    border: 5px solid #222222;
+    border: 3px solid #111111;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+}
+a {
+    color: #0075fa;
 }
 
